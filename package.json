@@ -1,5 +1,5 @@
 {
-  "name": "feature-viewer-burkov",
+  "name": "@rnacentral/feature-viewer",
   "description": "A lightweight, generic and easy-to-use feature-viewer written in javascript with D3",
   "version": "1.1.1",
   "homepage": "https://github.com/calipho-sib/feature-viewer",
