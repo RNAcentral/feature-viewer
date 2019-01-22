@@ -142,7 +142,7 @@ var FeatureViewer = (function () {
                         width: 'auto',
                         'max-width': '170px',
                         height: 'auto',
-                        'max-height': '68px',
+                        'max-height': '100px',
                         padding: '5px',
                         "font": tooltipFontSize + ' ' + tooltipFontFamily,
                         'text-align': 'center',
